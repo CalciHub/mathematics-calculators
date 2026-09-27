@@ -1,6 +1,6 @@
 # Mathematics Calculators
 
-Mathematics calculators from [CalciHub](https://calcihub.com/) for working through common calculations involving arithmetic, algebra, geometry, equations, sequences, and number systems.
+Mathematics calculators from [CalciHub](https://calcihub.com/) for working through common calculations involving arithmetic, percentages, algebra, geometry, equations, sequences, and number systems.
 
 This repository documents the mathematics calculator collection available on CalciHub and provides references to the individual calculators and their calculation methods.
 
@@ -8,14 +8,13 @@ This repository documents the mathematics calculator collection available on Cal
 
 The Mathematics collection currently includes **25 calculators** covering areas such as:
 
-- Basic arithmetic
-- Percentages and averages
-- Fractions and exponents
+- Basic arithmetic and percentages
+- Fractions, exponents, and logarithms
 - Algebra and equations
 - Geometry and measurement
-- Trigonometry
+- Triangles and coordinate geometry
 - Matrices and number theory
-- Number systems and mathematical conversions
+- Number systems and conversions
 
 See the [Mathematics Calculator Index](calculators/README.md) for the complete list.
 
@@ -36,6 +35,8 @@ Where relevant, calculator documentation explains:
 [CalciHub](https://calcihub.com/) is a collection of practical online calculators covering finance, mathematics, health and fitness, conversions, science, statistics, date and time, and other everyday calculations.
 
 The calculators are designed to provide clear results together with useful explanations rather than presenting a number without context.
+
+CalciHub is built and operated by [InZentrix](https://inzentrix.com/), a digital development and technology agency based in New Delhi, India.
 
 ## Related resources
 
